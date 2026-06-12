@@ -44,6 +44,7 @@
 * ECG 길이 : 187 시점(Time Point)
 * 원본 클래스 : 5개
 * 최종 문제 정의 : 정상/비정상 이진 분류
+* 출처 : https://www.kaggle.com/datasets/shayanfazeli/heartbeat
 
 ### 라벨 변환
 
