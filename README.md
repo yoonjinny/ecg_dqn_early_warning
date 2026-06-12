@@ -26,6 +26,7 @@
 * 총 109,554개 ECG 샘플
 * 각 샘플은 187개의 시계열 포인트로 구성
 * 5개 클래스를 이진 분류로 변환
+* 데이터 출처 : https://www.kaggle.com/datasets/shayanfazeli/heartbeat
 
 | 원본 클래스 | 설명        |     개수 |
 | ------ | --------- | -----: |
